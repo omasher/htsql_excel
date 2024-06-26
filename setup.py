@@ -32,7 +32,7 @@ setup(
     install_requires=[
         'HTSQL>=2.3,<3',
         'xlwt>=1,<2',
-        'openpyxl>=2,<3',
+        'openpyxl>=3.1.2,<3.1.4',
     ],
 )
 
